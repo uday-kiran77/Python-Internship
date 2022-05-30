@@ -1,4 +1,4 @@
-## React multi-stage form
+## React multi-stage form (Version-2)
 
 clone this repository [https://github.com/uday-kiran77/Python-Internship/](https://github.com/uday-kiran77/Python-Internship/ "https://github.com/uday-kiran77/Python-Internship/")
 
