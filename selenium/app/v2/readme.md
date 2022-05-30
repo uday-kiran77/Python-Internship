@@ -1,12 +1,12 @@
-### React multi-stage form
+## React multi-stage form
 
 clone this repository [https://github.com/uday-kiran77/Python-Internship/](https://github.com/uday-kiran77/Python-Internship/ "https://github.com/uday-kiran77/Python-Internship/")
 
 #### To install this app 
 
-- Change directory:`cd ./selenium/app/v2`
-- Install Packages:`npm install`
-- Start Application on development server:`npm start`
+- Change directory: `cd ./selenium/app/v2`
+- Install Packages: `npm install`
+- Start Application on development server: `npm start`
 
 ------------
 
