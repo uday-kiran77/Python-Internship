@@ -4,7 +4,7 @@ clone this repository [https://github.com/uday-kiran77/Python-Internship/](https
 
 #### To install this app 
 
-- Change directory:`cd ./selenium/app/v1`
+- Change directory:`cd ./selenium/app/v2`
 - Install Packages:`npm install`
 - Start Application on development server:`npm start`
 
@@ -13,4 +13,4 @@ clone this repository [https://github.com/uday-kiran77/Python-Internship/](https
 
 #### Test this app
 Written the test case for testing the application using Python and Selenium
-###### Find the script here: [test_script.py](https://github.com/uday-kiran77/Python-Internship/blob/main/selenium/app/v1/test_script.py "Test Script")
+###### Find the script here: [test_script.py](https://github.com/uday-kiran77/Python-Internship/blob/main/selenium/app/v2/test_script.py "Test Script")
